@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to Memorize Extension ("we", "our", or "us"). We are committed to protecting your privacy and personal information. This privacy policy explains how we collect, use, store, and protect your information when you use the Memorize Extension.
+Welcome to Memorize Extension ("we", "our", or "us"). This is a free, open extension available to everyone with no limitations. We are committed to protecting your privacy and personal information. This privacy policy explains how we collect, use, store, and protect your information when you use the Memorize Extension.
 
 ## 2. Information We Collect
 
@@ -18,14 +18,14 @@ Welcome to Memorize Extension ("we", "our", or "us"). We are committed to protec
 
 - **User input data:** Content you enter into the extension for memorization
 - **Local storage data:** Information stored on your device
-- **Account information:** If you log in, we may collect basic account information
+- **No account required:** This extension works without any account or registration
 
 ## 3. How We Use Your Information
 
 ### 3.1 Purpose of Use
 
 - Provide and improve extension services
-- Store and sync your data
+- Store your data locally on your device
 - Provide technical support
 - Analyze and improve extension performance
 
@@ -39,16 +39,15 @@ Welcome to Memorize Extension ("we", "our", or "us"). We are committed to protec
 
 ### 4.1 Data Storage
 
-- **Local data:** Stored on your device
-- **Synced data:** Encrypted and securely stored on servers
-- **Retention period:** Data is stored until you delete it or cancel your account
+- **Local data only:** All data is stored locally on your device
+- **No cloud storage:** We do not store your data on external servers
+- **Retention period:** Data is stored until you delete it or uninstall the extension
 
 ### 4.2 Security Measures
 
-- Data encryption during transmission
-- Use of HTTPS protocol
-- Strict access controls
-- Regular data backups
+- Local data encryption on your device
+- No external data transmission required
+- Your data stays private and secure on your device
 
 ## 5. Information Sharing
 
@@ -73,8 +72,8 @@ We do not sell, rent, or share your personal information with third parties, exc
 ### 6.2 Data Deletion Rights
 
 - Delete personal data
-- Cancel account
 - Delete locally stored data
+- Uninstall extension to remove all data
 
 ### 6.3 How to Exercise Rights
 
@@ -82,6 +81,7 @@ To exercise these rights, please contact us via:
 
 - Email: [whileloop99@gmail.com](mailto:whileloop99@gmail.com)
 - In extension: Settings > Privacy & Data
+- Simply uninstall the extension to remove all your data
 
 ## 7. Cookies and Tracking Technologies
 
@@ -99,15 +99,17 @@ To exercise these rights, please contact us via:
 
 ## 8. Children's Data
 
-### 8.1 Minimum Age
+### 8.1 Age Accessibility
 
-- This extension is not intended for children under 13
-- We do not knowingly collect information from children under 13
+- This extension is designed to be safe and accessible for users of all ages
+- No minimum age restrictions - the extension is available to everyone
+- All data remains local on the user's device, ensuring privacy for all users
 
 ### 8.2 Child Protection
 
-- If we discover collection of information from children, we will delete it immediately
-- Parents can contact us to request deletion of their child's information
+- Since all data is stored locally, there's no risk of external data exposure
+- Parents can easily monitor their child's usage as data stays on the device
+- Parents can uninstall the extension at any time to remove all data
 
 ## 9. Policy Updates
 
@@ -119,7 +121,7 @@ To exercise these rights, please contact us via:
 ### 9.2 Continued Use Agreement
 
 - Continued use of the extension after changes is considered consent
-- You can cancel your account if you disagree with changes
+- You can uninstall the extension if you disagree with changes
 
 ## 10. Contact Information
 
@@ -130,7 +132,7 @@ To exercise these rights, please contact us via:
 ### 10.2 Response Time
 
 - We commit to responding within 48 hours
-- For data deletion requests: 30 business days
+- For data deletion requests: Immediate (just uninstall the extension)
 
 ## 11. Applicable Laws
 
@@ -144,7 +146,7 @@ To exercise these rights, please contact us via:
 - Compliance with California Consumer Privacy Act
 - Right to opt-out of personal data sales
 
-## 12. Privacy Commitment
+## 12. Open Access Commitment
 
 We commit to:
 
